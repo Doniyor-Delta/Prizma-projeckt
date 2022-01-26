@@ -1,0 +1,14 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../scss/main.scss",
+        "../scss/normaliza.scss",
+        "../scss/general.scss",
+        "../scss/mixin.scss",
+        "../scss/virables.scss",
+        "../scss/blocks/blocks.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
