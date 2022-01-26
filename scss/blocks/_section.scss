@@ -1,0 +1,34 @@
+.section {
+    padding: 240px 0 240px;
+}
+
+.section__header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.section__title {
+    font-family: Urbanist;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 58px;
+letter-spacing: 2px;
+text-transform: uppercase;
+color: #181A3F;
+}
+
+.section__link {
+    font-family: Urbanist;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 22px;
+text-align: center;
+letter-spacing: 1.6px;
+text-transform: uppercase;
+color: #181A3F;
+    border: 2px solid #181A3F;
+box-sizing: border-box;
+border-radius: 0px;
+}
